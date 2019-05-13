@@ -1,0 +1,54 @@
+13.05.2019 18:36:25 Initializing PLC... 
+13.05.2019 18:36:25 UI initialized 
+13.05.2019 18:36:25 Model initilalized 
+13.05.2019 18:36:25 DAQ module initialized 
+13.05.2019 18:36:25 LOG module initialized 
+13.05.2019 18:36:25 PLC initialization successful! 
+13.05.2019 18:37:25 UI initialized 
+13.05.2019 18:37:25 Initializing PLC... 
+13.05.2019 18:37:25 Model initilalized 
+13.05.2019 18:37:25 DAQ module initialized 
+13.05.2019 18:37:25 LOG module initialized 
+13.05.2019 18:37:25 PLC initialization successful! 
+13.05.2019 18:37:50 Another barrel filled 
+13.05.2019 18:38:05 Another barrel filled 
+13.05.2019 18:38:14 Liquid level overflow! 
+13.05.2019 18:38:16 Another barrel filled 
+13.05.2019 18:38:26 Another barrel filled 
+13.05.2019 18:39:42 Starting process... 
+13.05.2019 18:39:42 Process has started 
+13.05.2019 18:39:59 Another barrel filled 
+13.05.2019 18:41:00 Another barrel filled 
+13.05.2019 18:41:14 Liquid level overflow! 
+13.05.2019 18:41:16 Another barrel filled 
+13.05.2019 18:41:20 Stopping process... 
+13.05.2019 18:41:20 Process has stoped 
+13.05.2019 18:41:22 Closing PLC... 
+13.05.2019 18:41:22 Model closed 
+13.05.2019 18:41:22 DAQ module closed 
+13.05.2019 18:41:22 LOG module closed 
+13.05.2019 18:41:22 PLC shutdown successful! 
+13.05.2019 18:41:22 Application quits 
+13.05.2019 18:43:17 Initializing PLC... 
+13.05.2019 18:43:17 UI initialized 
+13.05.2019 18:43:17 Model initilalized 
+13.05.2019 18:43:17 DAQ module initialized 
+13.05.2019 18:43:17 LOG module initialized 
+13.05.2019 18:43:17 PLC initialization successful! 
+13.05.2019 18:43:19 Starting process... 
+13.05.2019 18:43:19 Process has started 
+13.05.2019 18:43:30 Liquid level overflow! 
+13.05.2019 18:43:32 Another barrel filled 
+13.05.2019 18:43:39 Another barrel filled 
+13.05.2019 18:43:46 Another barrel filled 
+13.05.2019 18:43:53 Another barrel filled 
+13.05.2019 18:44:00 Liquid level overflow! 
+13.05.2019 18:44:01 Another barrel filled 
+13.05.2019 18:44:31 Stopping process... 
+13.05.2019 18:44:31 Process has stoped 
+13.05.2019 18:44:33 Closing PLC... 
+13.05.2019 18:44:33 Model closed 
+13.05.2019 18:44:33 DAQ module closed 
+13.05.2019 18:44:33 LOG module closed 
+13.05.2019 18:44:33 PLC shutdown successful! 
+13.05.2019 18:44:33 Application quits 

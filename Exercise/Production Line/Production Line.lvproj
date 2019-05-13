@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="14008000">
+<Project Type="Project" LVVersion="15008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
 	<Item Name="My Computer" Type="My Computer">
@@ -57,8 +57,8 @@
 				<Item Name="Status Log FGV.vi" Type="VI" URL="../support/Status Logger/Status Log FGV.vi"/>
 			</Item>
 			<Item Name="Message Queue.lvlib" Type="Library" URL="../support/Message Queue/Message Queue.lvlib"/>
-			<Item Name="Notifiers.lvlib" Type="Library" URL="../Support/Notifiers/Notifiers.lvlib"/>
-			<Item Name="User Event - EHL Stop.lvlib" Type="Library" URL="../Support/User Event - EHL Stop/User Event - EHL Stop.lvlib"/>
+			<Item Name="Notifiers.lvlib" Type="Library" URL="../support/Notifiers/Notifiers.lvlib"/>
+			<Item Name="User Event - EHL Stop.lvlib" Type="Library" URL="../support/User Event - EHL Stop/User Event - EHL Stop.lvlib"/>
 		</Item>
 		<Item Name="Modules" Type="Folder">
 			<Item Name="PLC.lvlib" Type="Library" URL="../PLC/PLC.lvlib"/>
